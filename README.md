@@ -73,17 +73,19 @@ Alur program : menampilkan halaman utama, menampilkan login sebagai admin, input
 
 10. Menampilkan menu, jika memilih menu 1
 
+    <img width="292" height="472" alt="image" src="https://github.com/user-attachments/assets/a2b17827-e0b9-435a-8059-c850dc3f7475" />
+
     <img width="300" height="175" alt="image" src="https://github.com/user-attachments/assets/1babee57-65da-42a1-95c3-174428b025a6" />
 
-    Pada menu ini program akan menampilkan data pasien tersebut.
+    Pada menu ini program akan menampilkan data pasien tersebut, jika data belum diinput maka data tidak dapat ditemukan saat user memilih menu ini.
 
-11. Jika memilih menu 2
+12. Jika memilih menu 2
 
     <img width="237" height="172" alt="image" src="https://github.com/user-attachments/assets/f461ae91-d425-4d78-a770-af1fe8b3e065" />
 
     User akan otomatis ter logout.
 
-12. Jika data yang dimasukkan salah
+13. Jika data yang dimasukkan salah
 
     <img width="401" height="274" alt="image" src="https://github.com/user-attachments/assets/b919c693-1b78-4542-adce-25e521f00cde" />
 
