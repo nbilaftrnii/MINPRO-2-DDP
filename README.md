@@ -17,25 +17,37 @@ Alur program : menampilkan halaman utama, menampilkan login sebagai admin, input
 
    <img width="273" height="257" alt="image" src="https://github.com/user-attachments/assets/0a97c60c-a5bd-4e9b-8459-b7171e0aca4e" />
 
-2. Jika memilih login sebagai admin
+   Pada halaman ini akan menampilkan 2 pilihan untuk login, yaitu sebagai admin yang bisa mengakses semua fitur dan pasien yang hanya bisa melihat data.
+   
+3. Jika memilih login sebagai admin
 
    <img width="263" height="172" alt="image" src="https://github.com/user-attachments/assets/ffc7244d-3357-4abe-a24e-287adea61873" />
 
-3. Jika memilih menu 1
+   User akan diarahkan untuk memasukkan username dan password yang sesuai.
+
+4. Jika memilih menu 1
 
    <img width="551" height="497" alt="image" src="https://github.com/user-attachments/assets/9c9bc642-f88b-4f1e-b35b-aeefcd982a73" />
+
+   Pada pilihan menu akan terdapat 6 menu utama, yang dimana jika memilih menu 1 user akan diarahkan untuk menginput data pasien, lalu nanti akan ditampilkan nomor antrian    pasien secara otomatis sesuai urutan data yang masuk.
 
 5. Jika memilih menu 2
 
    <img width="322" height="290" alt="image" src="https://github.com/user-attachments/assets/6b374bb2-761e-47ab-b8bb-91e66be16eec" />
 
+   Pada menu ini, user bisa melihat data pasien yang telah diinput.
+
 6. Jika memilih menu 3
 
   <img width="497" height="582" alt="image" src="https://github.com/user-attachments/assets/4209dbca-242d-4ebc-ab21-9e0e362941b3" />
 
+  Jika terdapat data pasien yang salah ataupun ingin diperbarui bisa menggunakan menu ini, data akan otomatis diperbarui pada sistem.
+
 6. Jika memilih menu 4
 
    <img width="367" height="418" alt="image" src="https://github.com/user-attachments/assets/c10dbb24-7000-4d7c-90d5-c4b313cfd5d3" />
+
+   Apabila data pasien telah selesai digunakan, data bisa dihapus menggunakan menu ini.
 
 7. Jika memilih menu 5
 
@@ -43,29 +55,41 @@ Alur program : menampilkan halaman utama, menampilkan login sebagai admin, input
 
    <img width="355" height="512" alt="image" src="https://github.com/user-attachments/assets/01bd0655-5660-4e4d-a373-fa3e370fe403" />
 
+   Terdapat 2 menu untuk pembayaran yaitu, BPJS dan umum. jika telah memilih diantara 2 pilihan ini, maka sistem akan otomatik mencetak struk antrian.
+
 8. Jika memilih menu 6
 
    <img width="306" height="279" alt="image" src="https://github.com/user-attachments/assets/4690409a-867e-4237-bfd4-3ccc3a616494" />
 
    <img width="280" height="496" alt="image" src="https://github.com/user-attachments/assets/97624936-f89f-4cbb-af5e-055ebd204328" />
 
+   Jika user ingin keluar dari program, maka cukup input "y" dan program akan langsung otomatis logout. Jika user menginput "n", maka user akan diarahkan kembali ke halaman utama.
+
 9. Jika login sebagai pasien
 
    <img width="294" height="270" alt="image" src="https://github.com/user-attachments/assets/8776e52a-0c95-4325-980b-a1e41b5ed111" />
+
+   User akan diarahkan untuk memasukkan username dan password yang sesuai.
 
 10. Menampilkan menu, jika memilih menu 1
 
     <img width="300" height="175" alt="image" src="https://github.com/user-attachments/assets/1babee57-65da-42a1-95c3-174428b025a6" />
 
+    Pada menu ini program akan menampilkan data pasien tersebut.
+
 11. Jika memilih menu 2
 
     <img width="237" height="172" alt="image" src="https://github.com/user-attachments/assets/f461ae91-d425-4d78-a770-af1fe8b3e065" />
+
+    User akan otomatis ter logout.
 
 12. Jika data yang dimasukkan salah
 
     <img width="401" height="274" alt="image" src="https://github.com/user-attachments/assets/b919c693-1b78-4542-adce-25e521f00cde" />
 
     <img width="328" height="263" alt="image" src="https://github.com/user-attachments/assets/b82b0a29-e4c0-4b18-9f10-09fa51d455e5" />
+
+    Jika input yang dimasukkan salah atau tidak sesuai, sistem akan menampilkan bahwa input salah dan tidak melanjutkan ke program berikutnya.
 
     
 
