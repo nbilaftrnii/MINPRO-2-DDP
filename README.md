@@ -1,7 +1,7 @@
 # MINPRO-2-DDP
-Nama : Nabila Fitriani
-NIM  : 2509116063
-Kelas: Sistem Informasi (B)
+Nama : Nabila Fitriani  
+NIM  : 2509116063  
+Kelas: Sistem Informasi (B)  
 Judul: Sistem Manajemen Antrian di Puskesmas
 
 
