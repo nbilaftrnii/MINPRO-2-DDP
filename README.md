@@ -2,9 +2,10 @@
 Nama : Nabila Fitriani  
 NIM  : 2509116063  
 Kelas: Sistem Informasi (B)  
-Judul: Sistem Manajemen Antrian di Puskesmas
-
-
+Judul: Sistem Manajemen Antrian di Puskesmas  
+Deskripsi singkat : Program sederhana untuk mengelola antrian yang ada di puskesmas  
+Fitur utama : Login menggunakan 2 role (admin dan karawan), Menginput data pasien, Menyimpan data, Menampilkan data, Mengubah data, Menghapus data, logout  
+Alur program : menampilkan halaman utama, menampilkan login sebagai admin, input username dan password, pilih menu, pilih metode pembayaran, cetak struk
 
 # Flowchart:
 
