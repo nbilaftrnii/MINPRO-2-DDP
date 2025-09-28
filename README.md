@@ -39,9 +39,9 @@ Alur program : menampilkan halaman utama, menampilkan login sebagai admin, input
 
 6. Jika memilih menu 3
 
-  <img width="497" height="582" alt="image" src="https://github.com/user-attachments/assets/4209dbca-242d-4ebc-ab21-9e0e362941b3" />
+   <img width="497" height="582" alt="image" src="https://github.com/user-attachments/assets/4209dbca-242d-4ebc-ab21-9e0e362941b3" />
 
-  Jika terdapat data pasien yang salah ataupun ingin diperbarui bisa menggunakan menu ini, data akan otomatis diperbarui pada sistem.
+   Jika terdapat data pasien yang salah ataupun ingin diperbarui bisa menggunakan menu ini, data akan otomatis diperbarui pada sistem.
 
 6. Jika memilih menu 4
 
