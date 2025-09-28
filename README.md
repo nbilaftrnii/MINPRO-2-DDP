@@ -7,10 +7,8 @@ Judul: Sistem Manajemen Antrian di Puskesmas
 
 
 # Flowchart:
-  
-  <img width="1239" height="1100" alt="minpro2 drawio (2)" src="https://github.com/user-attachments/assets/9330d5e4-08b8-41fe-a002-00cd92d0fe82" />
 
-  
+  <img width="1239" height="1100" alt="minpro2 drawio (3)" src="https://github.com/user-attachments/assets/425ad999-0bcf-492a-bfc4-fc8058f489d7" />
 
 # Penjelasan Output:
 
@@ -23,25 +21,26 @@ Judul: Sistem Manajemen Antrian di Puskesmas
    <img width="263" height="172" alt="image" src="https://github.com/user-attachments/assets/ffc7244d-3357-4abe-a24e-287adea61873" />
 
 3. Jika memilih menu 1
-   <img width="544" height="495" alt="image" src="https://github.com/user-attachments/assets/ef88f3db-7f35-4e6c-bd22-9bea95cf4118" />
 
-4. Jika memilih menu 2
+   <img width="551" height="497" alt="image" src="https://github.com/user-attachments/assets/9c9bc642-f88b-4f1e-b35b-aeefcd982a73" />
+
+5. Jika memilih menu 2
 
    <img width="322" height="290" alt="image" src="https://github.com/user-attachments/assets/6b374bb2-761e-47ab-b8bb-91e66be16eec" />
 
-5. Jika memilih menu 3
+6. Jika memilih menu 3
 
-   <img width="481" height="371" alt="image" src="https://github.com/user-attachments/assets/8c9ecf78-ceb1-4cde-a404-a2531963edd3" />
-
-   <img width="355" height="512" alt="image" src="https://github.com/user-attachments/assets/01bd0655-5660-4e4d-a373-fa3e370fe403" />
+  <img width="497" height="582" alt="image" src="https://github.com/user-attachments/assets/4209dbca-242d-4ebc-ab21-9e0e362941b3" />
 
 6. Jika memilih menu 4
 
-   <img width="350" height="191" alt="image" src="https://github.com/user-attachments/assets/beedd0db-c414-4458-a93c-df1545b886b6" />
+   <img width="367" height="418" alt="image" src="https://github.com/user-attachments/assets/c10dbb24-7000-4d7c-90d5-c4b313cfd5d3" />
 
 7. Jika memilih menu 5
 
    <img width="343" height="509" alt="image" src="https://github.com/user-attachments/assets/0160f3ab-b7a8-4c4c-928a-915ac1f1aa3f" />
+
+   <img width="355" height="512" alt="image" src="https://github.com/user-attachments/assets/01bd0655-5660-4e4d-a373-fa3e370fe403" />
 
 8. Jika memilih menu 6
 
